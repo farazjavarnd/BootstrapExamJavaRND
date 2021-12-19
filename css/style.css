@@ -1,0 +1,41 @@
+/* Universal Setting */
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Banner Styling */
+
+#banner {
+    background-image: url('../img/banner-image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60vh;
+    text-shadow: 6px 6px 5px rgb(11, 97, 255);
+}
+
+/* Color Composition */
+
+.color-dev {
+    background-color: #d5e2d7;
+}
+
+.color-card {
+    background-color: #274c77;
+}
+
+.color-contact {
+    background-color: #1A8FE3;
+}
+
+.color-about {
+    background-color: #79C99E;
+}
+
+/* End CSS */
